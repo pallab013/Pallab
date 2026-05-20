@@ -1,0 +1,11 @@
+Course_ID,Course_Name,Teacher_Name,Department,Credits
+C001,Physics,Prof. Smith,Science,4
+C002,Chemistry,Prof. Johnson,Science,4
+C003,Mathematics,Prof. Lee,Science,3
+C004,Economics,Prof. Khan,Commerce,3
+C005,Accounting,Prof. Patel,Commerce,4
+C006,History,Prof. Brown,Arts,3
+C007,Literature,Prof. Wilson,Arts,3
+C008,Engineering Math,Prof. Davis,Engineering,4
+C009,Programming,Prof. Miller,Engineering,4
+C010,Electronics,Prof. Garcia,Engineering,3
